@@ -30,13 +30,13 @@ A cada novo projeto, procuro aumentar o nível de desafio e ampliar o que consig
 
 <!-- PROJECTS:START -->
 
-### pokedex
+### Pokédex
 
 Pokédex SPA built with Vanilla JavaScript, ES Modules and PokéAPI.
 
 `JavaScript`
 
-[Repositório →](https://github.com/chrystianomoura/pokedex) · [Demo →](https://chrystianomoura.github.io/pokedex/)
+[Código →](https://github.com/chrystianomoura/pokedex) · [Projeto online →](https://chrystianomoura.github.io/pokedex/)
 
 ---
 
@@ -46,38 +46,47 @@ Jogo arcade inspirado na mecânica clássica de Snake.
 
 `JavaScript`
 
-[Repositório →](https://github.com/chrystianomoura/NYVOLT) · [Demo →](https://chrystianomoura.github.io/NYVOLT/)
+[Código →](https://github.com/chrystianomoura/NYVOLT) · [Projeto online →](https://chrystianomoura.github.io/NYVOLT/)
 
 ---
 
-### quiz
+### Quiz
 
 Quiz de conhecimentos gerais desenvolvido com HTML, CSS e JavaScript puro.
 
 `JavaScript`
 
-[Repositório →](https://github.com/chrystianomoura/quiz) · [Demo →](https://chrystianomoura.github.io/quiz/)
+[Código →](https://github.com/chrystianomoura/quiz) · [Projeto online →](https://chrystianomoura.github.io/quiz/)
 
 ---
 
-### pedra-papel-tesoura
+### Pedra, Papel e Tesoura
 
 Jogo de Pedra, Papel e Tesoura desenvolvido com HTML, CSS e JavaScript, com foco em experiência mobile e animações.
 
 `JavaScript`
 
-[Repositório →](https://github.com/chrystianomoura/pedra-papel-tesoura) · [Demo →](https://chrystianomoura.github.io/pedra-papel-tesoura/)
+[Código →](https://github.com/chrystianomoura/pedra-papel-tesoura) · [Projeto online →](https://chrystianomoura.github.io/pedra-papel-tesoura/)
 
 ---
 
-### password-generator
+### Password Generator
 
 Gerador de senhas aleatórias desenvolvido com JavaScript puro.
 
 `JavaScript`
 
-[Repositório →](https://github.com/chrystianomoura/password-generator) · [Demo →](https://chrystianomoura.github.io/password-generator/)
+[Código →](https://github.com/chrystianomoura/password-generator) · [Projeto online →](https://chrystianomoura.github.io/password-generator/)
 
+---
+
+### SYVRON
+
+Uma experiência de cronômetro interativo onde interface, movimento e código dão vida a um organismo digital.
+
+`JavaScript`
+
+[Código →](https://github.com/chrystianomoura/SYVRON) · [Projeto online →](https://chrystianomoura.github.io/SYVRON/)
 <!-- PROJECTS:END -->
 
 <p align="center">
@@ -85,3 +94,4 @@ Gerador de senhas aleatórias desenvolvido com JavaScript puro.
     Ver todos os repositórios →
   </a>
 </p>
+
