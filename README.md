@@ -29,4 +29,53 @@ A cada novo projeto, procuro aumentar o nível de desafio e ampliar o que consig
 ## Projetos recentes
 
 <!-- PROJECTS:START -->
+
+### pokedex
+
+Pokédex SPA built with Vanilla JavaScript, ES Modules and PokéAPI.
+
+`JavaScript`
+
+[Repositório →](https://github.com/chrystianomoura/pokedex) · [Demo →](https://chrystianomoura.github.io/pokedex/)
+
+---
+
+### NYVOLT
+
+Jogo arcade inspirado na mecânica clássica de Snake.
+
+`JavaScript`
+
+[Repositório →](https://github.com/chrystianomoura/NYVOLT) · [Demo →](https://chrystianomoura.github.io/NYVOLT/)
+
+---
+
+### quiz
+
+Quiz de conhecimentos gerais desenvolvido com HTML, CSS e JavaScript puro.
+
+`JavaScript`
+
+[Repositório →](https://github.com/chrystianomoura/quiz) · [Demo →](https://chrystianomoura.github.io/quiz/)
+
+---
+
+### pedra-papel-tesoura
+
+Jogo de Pedra, Papel e Tesoura desenvolvido com HTML, CSS e JavaScript, com foco em experiência mobile e animações.
+
+`JavaScript`
+
+[Repositório →](https://github.com/chrystianomoura/pedra-papel-tesoura) · [Demo →](https://chrystianomoura.github.io/pedra-papel-tesoura/)
+
+---
+
+### password-generator
+
+Gerador de senhas aleatórias desenvolvido com JavaScript puro.
+
+`JavaScript`
+
+[Repositório →](https://github.com/chrystianomoura/password-generator) · [Demo →](https://chrystianomoura.github.io/password-generator/)
 <!-- PROJECTS:END -->
+
