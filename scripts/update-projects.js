@@ -80,7 +80,7 @@ function createProjectMarkdown(repository) {
     ? `\`${repository.language}\`\n\n`
     : "";
 
-  const links = [`[Código →](${repository.html_url})`];
+  const links = [`[Repositório →](${repository.html_url})`];
 
   if (repository.homepage?.trim()) {
     links.push(`[Projeto online →](${repository.homepage.trim()})`);
