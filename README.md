@@ -77,5 +77,11 @@ Gerador de senhas aleatórias desenvolvido com JavaScript puro.
 `JavaScript`
 
 [Repositório →](https://github.com/chrystianomoura/password-generator) · [Demo →](https://chrystianomoura.github.io/password-generator/)
+
 <!-- PROJECTS:END -->
 
+<p align="center">
+  <a href="https://github.com/chrystianomoura?tab=repositories">
+    Ver todos os repositórios →
+  </a>
+</p>
