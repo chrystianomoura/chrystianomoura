@@ -3,7 +3,7 @@ const fs = require("node:fs");
 const USERNAME = "chrystianomoura";
 const PROFILE_REPOSITORY = USERNAME;
 const README_PATH = "README.md";
-const PROJECT_LIMIT = 5;
+const PROJECT_LIMIT = 6;
 
 const START_MARKER = "<!-- PROJECTS:START -->";
 const END_MARKER = "<!-- PROJECTS:END -->";
@@ -42,7 +42,37 @@ function selectRecentProjects(repositories) {
     .slice(0, PROJECT_LIMIT);
 }
 
+function formatProjectName(name) {
+  const customNames = {
+    pokedex: "Pokédex",
+    NYVOLT: "NYVOLT",
+    quiz: "Quiz",
+    "pedra-papel-tesoura": "Pedra, Papel e Tesoura",
+    "password-generator": "Password Generator",
+    jaraka: "JARAKA",
+    done: "Done.",
+    syvron: "SYVRON",
+    "nagato-electronics-ne84": "NE-84 Calculator",
+  };
+
+  if (customNames[name]) {
+    return customNames[name];
+  }
+
+  return name
+    .split(/[-_]/)
+    .filter(Boolean)
+    .map(
+      (word) =>
+        word.charAt(0).toUpperCase() +
+        word.slice(1),
+    )
+    .join(" ");
+}
+
 function createProjectMarkdown(repository) {
+  const name = formatProjectName(repository.name);
+
   const description =
     repository.description?.trim() || "Projeto disponível no GitHub.";
 
@@ -50,14 +80,14 @@ function createProjectMarkdown(repository) {
     ? `\`${repository.language}\`\n\n`
     : "";
 
-  const links = [`[Repositório →](${repository.html_url})`];
+  const links = [`[Código →](${repository.html_url})`];
 
   if (repository.homepage?.trim()) {
-    links.push(`[Demo →](${repository.homepage.trim()})`);
+    links.push(`[Projeto online →](${repository.homepage.trim()})`);
   }
 
   return [
-    `### ${repository.name}`,
+    `### ${name}`,
     "",
     description,
     "",
