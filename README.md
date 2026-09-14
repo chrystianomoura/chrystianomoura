@@ -32,7 +32,7 @@ A cada novo projeto, procuro aumentar o nível de desafio e ampliar o que consig
 
 ### Pokédex
 
-Pokédex SPA built with Vanilla JavaScript, ES Modules and PokéAPI.
+Pokédex SPA desenvolvida com JavaScript puro, ES Modules e PokéAPI.
 
 `JavaScript`
 
@@ -94,5 +94,6 @@ Uma experiência de cronômetro interativo onde interface, movimento e código d
     Ver todos os repositórios →
   </a>
 </p>
+
 
 
