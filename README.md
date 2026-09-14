@@ -36,7 +36,7 @@ Pokédex SPA desenvolvida com JavaScript puro, ES Modules e PokéAPI.
 
 `JavaScript`
 
-[Código →](https://github.com/chrystianomoura/pokedex) · [Projeto online →](https://chrystianomoura.github.io/pokedex/)
+[Repositório →](https://github.com/chrystianomoura/pokedex) · [Projeto online →](https://chrystianomoura.github.io/pokedex/)
 
 ---
 
@@ -46,7 +46,7 @@ Jogo arcade inspirado na mecânica clássica de Snake.
 
 `JavaScript`
 
-[Código →](https://github.com/chrystianomoura/NYVOLT) · [Projeto online →](https://chrystianomoura.github.io/NYVOLT/)
+[Repositório →](https://github.com/chrystianomoura/NYVOLT) · [Projeto online →](https://chrystianomoura.github.io/NYVOLT/)
 
 ---
 
@@ -56,7 +56,7 @@ Quiz de conhecimentos gerais desenvolvido com HTML, CSS e JavaScript puro.
 
 `JavaScript`
 
-[Código →](https://github.com/chrystianomoura/quiz) · [Projeto online →](https://chrystianomoura.github.io/quiz/)
+[Repositório →](https://github.com/chrystianomoura/quiz) · [Projeto online →](https://chrystianomoura.github.io/quiz/)
 
 ---
 
@@ -66,7 +66,7 @@ Jogo de Pedra, Papel e Tesoura desenvolvido com HTML, CSS e JavaScript, com foco
 
 `JavaScript`
 
-[Código →](https://github.com/chrystianomoura/pedra-papel-tesoura) · [Projeto online →](https://chrystianomoura.github.io/pedra-papel-tesoura/)
+[Repositório →](https://github.com/chrystianomoura/pedra-papel-tesoura) · [Projeto online →](https://chrystianomoura.github.io/pedra-papel-tesoura/)
 
 ---
 
@@ -76,7 +76,7 @@ Gerador de senhas aleatórias desenvolvido com JavaScript puro.
 
 `JavaScript`
 
-[Código →](https://github.com/chrystianomoura/password-generator) · [Projeto online →](https://chrystianomoura.github.io/password-generator/)
+[Repositório →](https://github.com/chrystianomoura/password-generator) · [Projeto online →](https://chrystianomoura.github.io/password-generator/)
 
 ---
 
@@ -86,7 +86,7 @@ Uma experiência de cronômetro interativo onde interface, movimento e código d
 
 `JavaScript`
 
-[Código →](https://github.com/chrystianomoura/SYVRON) · [Projeto online →](https://chrystianomoura.github.io/SYVRON/)
+[Repositório →](https://github.com/chrystianomoura/SYVRON) · [Projeto online →](https://chrystianomoura.github.io/SYVRON/)
 <!-- PROJECTS:END -->
 
 <p align="center">
@@ -98,3 +98,4 @@ Uma experiência de cronômetro interativo onde interface, movimento e código d
 ## Contato
 
 [E-mail →](mailto:chrystianomoura@icloud.com)
+
