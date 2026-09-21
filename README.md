@@ -30,6 +30,16 @@ A cada novo projeto, procuro aumentar o nível de desafio e ampliar o que consig
 
 <!-- PROJECTS:START -->
 
+### Cinera
+
+Projeto disponível no GitHub.
+
+`TypeScript`
+
+[Repositório →](https://github.com/chrystianomoura/cinera)
+
+---
+
 ### Pokédex
 
 Pokédex SPA desenvolvida com JavaScript puro, ES Modules e PokéAPI.
@@ -77,16 +87,6 @@ Gerador de senhas aleatórias desenvolvido com JavaScript puro.
 `JavaScript`
 
 [Repositório →](https://github.com/chrystianomoura/password-generator) · [Projeto online →](https://chrystianomoura.github.io/password-generator/)
-
----
-
-### SYVRON
-
-Uma experiência de cronômetro interativo onde interface, movimento e código dão vida a um organismo digital.
-
-`JavaScript`
-
-[Repositório →](https://github.com/chrystianomoura/SYVRON) · [Projeto online →](https://chrystianomoura.github.io/SYVRON/)
 <!-- PROJECTS:END -->
 
 <p align="center">
@@ -98,6 +98,7 @@ Uma experiência de cronômetro interativo onde interface, movimento e código d
 ## Contato
 
 [E-mail →](mailto:chrystianomoura@icloud.com)
+
 
 
 
